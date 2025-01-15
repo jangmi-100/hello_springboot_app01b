@@ -12,6 +12,7 @@
     <version>0.0.1-SNAPSHOT</version>
     <name>hello_springboot_app</name>
     <description>hello_springboot_app</description>
+    <relativePath>hello_springboot_app</relativePath>         
     <url/>
     <licenses>
         <license/>
